@@ -1,0 +1,22 @@
+/** 
+ * @component Users.css
+ * @description 用户组件样式
+ * @time 2020-01-15 15:16
+ * @author fishYu
+ */
+
+.normal {
+}
+
+.operation  {
+}
+
+.operation-span {
+    margin: 0 .5em;
+    color: #40a9ff;
+    cursor: pointer;
+  }
+
+.create {
+  margin: 1.5em 0;
+}
